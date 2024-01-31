@@ -368,4 +368,3 @@ aws logs describe-log-streams --log-stream-name-prefix "syslog"
 aws logs delete-log-stream --log-group-name "DefaultGroup" --log-stream-name "Default Stream"
 ```
 
-This cheat sheet covers basic AWS CLI commands for CloudTrail, IAM, EC2, and CloudWatch. Remember to replace placeholder values ("<value>") with actual values when using the commands.
